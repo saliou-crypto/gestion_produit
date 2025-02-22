@@ -1,0 +1,12 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "code": "P1234",
+      "designation": "Produit Test 1",
+      "prix": 25.50,
+      "date_expiration": "2025-12-31",
+      "description": "Description du produit 1"
+    },
+  ]
+}
